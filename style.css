@@ -1,0 +1,35 @@
+	body {
+				background-color: #85f2b6;
+				text-align: center
+			}
+			
+			#eins {
+				color: rgb(86, 20, 20);
+			}
+				
+			#zwei {
+				color: rgb(86, 20, 20);
+			}
+			p{
+				
+			}	
+			.hallo {
+				background-color: #E9FAED;
+				padding: 10px 10px 10px 10px;
+				border-right: 1px solid black;
+				border-left: 1px solid black;
+				border-bottom: 1px solid black;
+				border-top: 1px solid black;
+			}
+			.hallo: hover {
+				background-color: red;
+			}
+			.divs {
+				background-color: #ABFBD0;
+				
+			}
+			#button:hover {
+				width: 10%;
+				color: blue;
+				background-color: red;
+			}
