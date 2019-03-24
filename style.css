@@ -21,15 +21,35 @@
 				border-bottom: 1px solid black;
 				border-top: 1px solid black;
 			}
-			.hallo: hover {
+			.hallo:hover {
 				background-color: red;
 			}
 			.divs {
 				background-color: #ABFBD0;
 				
 			}
+			#button {
+				margin-top: 20px;
+    				padding: 10px 20px;
+    
+    				color: #FFF;
+    				background-color: #c61f4c;
+    				box-shadow: 0px 17px 10px -7px rgba(0, 0, 0, 0.4);
+    
+    				border: solid 3px #c61f4c;	
+    				border-radius: 10px;
+    
+    				font-size: 30px;
+    				font-family: fantasy;
+    
+    				transition: ease-in-out all 300ms;
+				
+			} 
 			#button:hover {
-				width: 10%;
-				color: blue;
-				background-color: red;
+				color: #c61f4c;
+    				background-color: #FFF;
+    
+   				transform: translate(0px, -10px);
+    
+    				box-shadow: 0px 30px 15px -10px rgba(0, 0, 0, 0.2)
 			}
